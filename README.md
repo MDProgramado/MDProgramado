@@ -65,4 +65,5 @@
   <img src="https://profile-counter.glitch.me/MDProgramado/count.svg" alt="Visitor Count">
 </p>
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
