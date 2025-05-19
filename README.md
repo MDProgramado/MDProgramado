@@ -52,7 +52,7 @@
 ## **🚀 Projetos em Destaque**
 
 <div align="center">
-  [![TaskFlow][(https://github-readme-stats.vercel.app/api/pin/?username=MDProgramado&repo=repo-name&theme=algolia)](https://github.com/MDProgramado/repo-name](https://github.com/MDProgramado/testflow-app.git))
+  [![TaskFlow][[(https://github-readme-stats.vercel.app/api/pin/?username=MDProgramado&repo=repo-name&theme=algolia)](https://github.com/MDProgramado/repo-name](https://github.com/MDProgramado/testflow-app.git](https://github.com/MDProgramado/testflow-app.git)))
 </div>
 
 ---
