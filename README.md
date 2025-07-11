@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=32a8a2&size=35&center=true&vCenter=true&width=900&lines=Olá,+Eu+sou+Maicon+Douglas!;Estudante+de+Engenharia+da+Computação+na+UFBA;20+anos+:%29" alt="Typing Animation">
 </h1>
 
+<p align="center">
+  Desenvolvedor Front-end em formação, apaixonado por criar soluções interativas e funcionais. Tenho experiência prática com <b>Angular, TypeScript e Firebase</b>, e estou sempre buscando novos desafios para expandir meu conhecimento em tecnologias web. No momento, meu foco é aprofundar meus estudos em React e Node.js.
+</p>
+
 ---
 
 ## **🛠 Tecnologias e Habilidades**
