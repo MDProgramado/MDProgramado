@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Desenvolvedor Front-end em formação, apaixonado por criar soluções interativas e funcionais. Tenho experiência prática com <b>Angular, TypeScript e Firebase</b>, e estou sempre buscando novos desafios para expandir meu conhecimento em tecnologias web. No momento, meu foco é aprofundar meus estudos em React e Node.js.
+  Desenvolvedor em formação, apaixonado por criar soluções interativas e funcionais. Tenho experiência prática com <b>Angular, TypeScript, Firebase e Java </b>, e estou sempre buscando novos desafios para expandir meu conhecimento em tecnologias web. No momento, meu foco é aprofundar meus estudos em React e Node.js.
 </p>
 
 ---
