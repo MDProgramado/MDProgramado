@@ -68,6 +68,4 @@
 
 ---
 
-## **👀 Contador de Visitantes**
 
-![Snake animation](https://raw.githubusercontent.com/MDProgramado/MDProgramado/output/snake.svg)
