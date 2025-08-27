@@ -70,4 +70,6 @@
 
 ## **👀 Contador de Visitantes**
 
-![Gráfico de Contribuições Pacman](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MDProgramado/MDProgramado/output/snake.svg" alt="Snake animation" />
