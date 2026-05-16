@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=32a887&height=120&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=120&section=header&text=⚡%20Maicon%20Douglas%20⚡&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=32a8a2&size=35&center=true&vCenter=true&width=900&lines=Olá,+Eu+sou+Maicon+Douglas!;Estudante+de+Engenharia+da+Computação+na+UFBA;20+anos+:%29" alt="Typing Animation">
-</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por criar soluções interativas e funcionais. Tenho experiência prática com <b>Angular, TypeScript, Firebase e Java </b>, e estou sempre buscando novos desafios para expandir meu conhecimento em tecnologias web. No momento, meu foco é aprofundar meus estudos em React e Node.js.
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=⚡+Full+Stack+Developer;⚛+React+%7C+🟦+Next.js+%7C+🔷+TypeScript;🐍+Python+%7C+🌿+Django+%7C+🛠️+Django+REST;🐘+PostgreSQL+%7C+🐳+Docker+%7C+🔧+Git;🟨+HTML5+%7C+🟦+CSS3+%7C+🟨+JavaScript" alt="Typing Animation" />
 </p>
+
 
 ---
 
